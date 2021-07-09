@@ -43,30 +43,30 @@ seus vendedores favoritos e saber todas as novidades que eles mesmos postam. Des
 - US 0011: Obtenha o quantidade de produtos promocionais de um vendedor específico;
 - US 0012: Obter uma lista de todos os produtos promocionais de um vendedor específico.
 
-#### Implementações futuras
+### Implementações futuras
 - Cupons de desconto na Rede Social, pelo nível de iteratividade gamificada -> proporcionais ao número de compras/iterações;
 - Cashback de 1%, 5 e 10% em compras selecionadas, nos quais serão creditados na conta Mercado Pago;
 - Recebimento de notificações, quando os vendedores que o cliente segue publicacar um produto na promoção.
 - 
 
 
-#### Squad
+### Squad
 
 - Igor Cruz Avelino
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-cruz-avelino/)](https://www.linkedin.com/in/igor-cruz-avelino/)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-cruz-avelino/)](https://www.linkedin.com/in/igor-cruz-avelino/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/icrxz)](https://github.com/icrxz)
 
 - Jonathan de Paula
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-dev-fullstack/)](https://www.linkedin.com/in/jonathan-dev-fullstack/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JCavalcanti-Meli)](https://github.com/JCavalcanti-Meli)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-dev-fullstack/)](https://www.linkedin.com/in/jonathan-dev-fullstack/)
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JCavalcanti-Meli)](https://github.com/JCavalcanti-Meli)
 
 - Marina Pinheiro Fachin
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/marina-pinheiro-fachin)](https://https://br.linkedin.com/in/marina-pinheiro-fachin)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mafachin)](https://github.com/mafachin)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/marina-pinheiro-fachin)](https://https://br.linkedin.com/in/marina-pinheiro-fachin)
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mafachin)](https://github.com/mafachin)
 
 - Waschington L. Menezes Filho
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/was-menezes?trk=people-guest_people_search-card)](https://https://br.linkedin.com/in/was-menezes?trk=people-guest_people_search-card)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WaschingtonMenezes)](https://github.com/WaschingtonMenezes)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/was-menezes?trk=people-guest_people_search-card)](https://https://br.linkedin.com/in/was-menezes?trk=people-guest_people_search-card)
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WaschingtonMenezes)](https://github.com/WaschingtonMenezes)
 
 
 
