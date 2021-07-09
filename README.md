@@ -52,4 +52,13 @@ seus vendedores favoritos e saber todas as novidades que eles mesmos postam. Des
 
 #### Squad
 
+- Igor Cruz Avelino
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-cruz-avelino/)](https://www.linkedin.com/in/igor-cruz-avelino/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/icrxz)](https://github.com/icrxz)
+- Jonathan de Paula
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-dev-fullstack/)](https://www.linkedin.com/in/jonathan-dev-fullstack/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JCavalcanti-Meli)](https://github.com/JCavalcanti-Meli)
+
+
+
 
