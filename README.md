@@ -28,6 +28,28 @@ seus vendedores favoritos e saber todas as novidades que eles mesmos postam. Des
 2. Acessar no seu navegador o link "http://localhost:8080/h2-console", click em Test Connection, e depois Connect;
 3. Agora já pode explorar o ambiente do Banco de Dados.
 
-### Squad
+### Funcionalidades - Requisitos técnicos funcionais
+
+- US 0001: Ser capaz de realizar a ação de “Follow” (seguir) a um determinado vendedor;
+- US 0002: Obter o resultado do número de usuários que seguem um determinado vendedor;
+- US 0003: Obter uma lista de todos os usuários que seguem um determinado vendedor (quem me segue?);
+- US 0004:  Obter uma lista de todos os vendedores que um determinado usuário segue (quem estou seguindo?);
+- US 0005: Cadastrar uma nova publicação;
+- US 0006: Obter uma lista das publicações feitas pelos vendedores que um usuário segue nas últimas duas semanas (para isso, ter em conta ordenação por data, a maioria das publicações recentes primeiro);
+- US 0007: Ser capaz de realizar a ação de “Deixar de seguir” (parar de seguir) um determinado vendedor;
+- US 0008: Ordem alfabética crescente e decrescente;
+- US 0009: Classificar por data crescente e decrescente;
+- US 0010:  Realizar a publicação de um novo produto promocional;
+- US 0011: Obtenha o quantidade de produtos promocionais de um vendedor específico;
+- US 0012: Obter uma lista de todos os produtos promocionais de um vendedor específico.
+
+#### Implementações futuras
+- Cupons de desconto na Rede Social, pelo nível de iteratividade gamificada -> proporcionais ao número de compras/iterações;
+- Cashback de 1%, 5 e 10% em compras selecionadas, nos quais serão creditados na conta Mercado Pago;
+- Recebimento de notificações, quando os vendedores que o cliente segue publicacar um produto na promoção.
+- 
+
+
+#### Squad
 
 
