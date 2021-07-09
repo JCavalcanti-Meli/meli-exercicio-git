@@ -54,7 +54,7 @@ seus vendedores favoritos e saber todas as novidades que eles mesmos postam. Des
 
 - Igor Cruz Avelino
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-cruz-avelino/)](https://www.linkedin.com/in/igor-cruz-avelino/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/icrxz)](https://github.com/icrxz)
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/icrxz)](https://github.com/icrxz)
 
 - Jonathan de Paula
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-dev-fullstack/)](https://www.linkedin.com/in/jonathan-dev-fullstack/)
@@ -67,7 +67,3 @@ seus vendedores favoritos e saber todas as novidades que eles mesmos postam. Des
 - Waschington L. Menezes Filho
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/was-menezes?trk=people-guest_people_search-card)](https://https://br.linkedin.com/in/was-menezes?trk=people-guest_people_search-card)
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WaschingtonMenezes)](https://github.com/WaschingtonMenezes)
-
-
-
-
